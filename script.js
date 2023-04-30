@@ -5,4 +5,4 @@ function onLoad() {
 	
 	
 }
-document.addEventListener('DOMContentLoaded',dom);
+document.addEventListener('DOMContentLoaded',onLoad);
