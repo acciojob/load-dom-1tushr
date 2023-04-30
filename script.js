@@ -1,6 +1,6 @@
 function onLoad() {
 
-	document.body.textContent="DOM load Success";
+	document.body.textContent='DOM load success';
 
 	
 	
